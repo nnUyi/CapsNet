@@ -29,3 +29,8 @@
 # Reference
 
   This repo is finished by referring to naturomics-CapsNet-Tensorflow(https://github.com/naturomics/CapsNet-Tensorflow/issues)
+  
+  
+# Contacts
+  
+  Email:computerscienceyyz@163.com, Thank you for contacting
