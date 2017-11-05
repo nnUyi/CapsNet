@@ -24,7 +24,7 @@
     
   (4)testing
   
-    $ python main.py --is_training=Flibraries dependencies:alse --mask_with_y=False
+    $ python main.py --is_training=False --mask_with_y=False
   
 # Reference
 
