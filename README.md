@@ -33,4 +33,4 @@
   
 # Contacts
   
-  Email:computerscienceyyz@163.com, Thank you for contacting
+  Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!
