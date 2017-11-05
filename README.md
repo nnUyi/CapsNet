@@ -7,8 +7,6 @@
   
   python2.7
   
-  libraries dependencies:
-  
   numpy
   
   scipy
@@ -26,7 +24,7 @@
     
   (4)testing
   
-    $ python main.py --is_training=False --mask_with_y=False
+    $ python main.py --is_training=Flibraries dependencies:alse --mask_with_y=False
   
 # Reference
 
