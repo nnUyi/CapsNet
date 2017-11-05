@@ -2,7 +2,9 @@
   This is a CapsNet repo which is a tenserflow version for Dynamic Routing Between Capsules(Geoffrey E. Hinton et al)
 
 # Requirement
+  
   tensorflow API r1.4
+  
   python2.7
   
   libraries dependencies:
