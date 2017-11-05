@@ -4,10 +4,10 @@
 # Requirement
   
   tensorflow API r1.4
-  
   python2.7
   
   libraries dependencies:
+  
   numpy
   scipy
   
