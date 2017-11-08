@@ -60,7 +60,7 @@ class CapsLayer():
         
         for r_ite in range(self.config.r_ite):
             with tf.variable_scope('iteration_' + str(r_ite)):
-                c_ij = tf.nn.softmax(b_ij, dim=2)#???????
+                c_ij = tf.nn.softmax(b_ij, dim=2)
                 c_ij = tf.tile(c_ij, [self.config.batchsize,1,1,1,1])
                 s_j = tf.multiply(c_ij, u_hat)
                 
