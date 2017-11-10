@@ -3,13 +3,13 @@
 
 # Requirement
   
-  tensorflow API r1.4
+  tensorflow 1.3.0
   
-  python2.7
+  python 2.7.12
   
-  numpy
+  numpy 1.13.1
   
-  scipy
+  scipy 0.17.0
   
 # Usage
   (1)download this repo to your own directory
