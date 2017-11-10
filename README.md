@@ -31,9 +31,9 @@
   This repo is finished by referring to [naturomics-CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
   
 # Other Implements
-  0. [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
-  1. [Pytorch](https://github.com/gram-ai/capsule-networks)
-  2. [Keras](https://github.com/XifengGuo/CapsNet-Keras)
+  - 0. [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
+  - 1. [Pytorch](https://github.com/gram-ai/capsule-networks)
+  - 2. [Keras](https://github.com/XifengGuo/CapsNet-Keras)
 
 # Contacts
   
