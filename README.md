@@ -28,9 +28,13 @@
   
 # Reference
 
-  This repo is finished by referring to naturomics-CapsNet-Tensorflow(https://github.com/naturomics/CapsNet-Tensorflow/issues)
+  This repo is finished by referring to [naturomics-CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
   
-  
+# Other Implements
+  - [Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
+  - [Pytorch](https://github.com/gram-ai/capsule-networks)
+  - [Keras](https://github.com/XifengGuo/CapsNet-Keras)
+
 # Contacts
   
   Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!
