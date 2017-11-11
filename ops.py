@@ -45,4 +45,4 @@ def linear(input_x, output_size, scope_name='linear'):
 
 # leaky_relu
 def leaky_relu(input_x, leaky=0.2):
-    return tf.maximum(leakly*input_x, input_x)
+    return tf.maximum(leaky*input_x, input_x)
