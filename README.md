@@ -1,6 +1,11 @@
 # CapsNet
   This is a CapsNet repo which is a tenserflow version for Dynamic Routing Between Capsules(Geoffrey E. Hinton et al)
 
+## Framework
+  
+## Routing
+  <p align='cneter'><img src='routing.jpg'/></p>
+  
 # Requirement
   
   tensorflow 1.3.0
