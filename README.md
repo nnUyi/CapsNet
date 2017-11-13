@@ -4,16 +4,16 @@
 ## Framework
   - Picture below shows the framework of CapsNet, more details can be seen in this repo.
   
-  <p align='center'><img src='framework.png'/></p>
+  <p align='center'><img src='a_framework.png'/></p>
   
   - Picture below shows the reconstruction processing, more details can be seen in this repo. 
   
-  <p align='center'><img src='reconstruction.png'/></p>
+  <p align='center'><img src='a_reconstruction.png'/></p>
   
 ## Routing
   Picture below shows how routing work, more details can be seen in this repo.
   
-  <p align='cneter'><img src='routing.jpg'/></p>
+  <p align='cneter'><img src='a_routing.jpg'/></p>
   
 # Requirement
   
@@ -43,7 +43,6 @@
 # Experiments
   The result shows below, after 15 epoches, we can clearly obtain such a good experimental result.
   
-  <p align='center'><img src='a_train_15_0000.png' /></p>
   <p align='center'><img src='a_train_15_0000.png' /></p>
 
 # Reference
