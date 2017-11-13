@@ -39,7 +39,12 @@
   (4)testing
   
     $ python main.py --is_training=False --mask_with_y=False
+
+# Experiments
+  The result shows below, after 15 epoches, we can clearly obtain such a good experimental result.
   
+  <p align='center'><img src='a_train_15_0000.png' /></p>
+
 # Reference
 
   This repo is finished by referring to [naturomics-CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow/issues)
