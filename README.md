@@ -44,6 +44,7 @@
   The result shows below, after 15 epoches, we can clearly obtain such a good experimental result.
   
   <p align='center'><img src='a_train_15_0000.png' /></p>
+  <p align='center'><img src='a_train_15_0000.png' /></p>
 
 # Reference
 
