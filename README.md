@@ -2,8 +2,17 @@
   This is a CapsNet repo which is a tenserflow version for Dynamic Routing Between Capsules(Geoffrey E. Hinton et al)
 
 ## Framework
+  - Picture below shows the framework of CapsNet, more details can be seen in this repo.
+  
+  <p align='center'><img src='framework.png'/></p>
+  
+  - Picture below shows the reconstruction processing, more details can be seen in this repo. 
+  
+  <p align='center'><img src='reconstruction.png'/></p>
   
 ## Routing
+  Picture below shows how routing work, more details can be seen in this repo.
+  
   <p align='cneter'><img src='routing.jpg'/></p>
   
 # Requirement
